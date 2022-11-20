@@ -22,4 +22,4 @@ Go to line 9 of the file `main.py` and then change the value of prompt to whatev
 
 _IMPORTANT_: __DO NOT__ change line 10. 
 
-_IMPORTANT_: 
+_IMPORTANT_: This will change soon and there will be some `argparse` or `sys.argv` stuff in the code. This is a fast _proof of concept_ I wrote for a friend.
