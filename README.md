@@ -18,7 +18,13 @@ pip3 install diffusers transformers scipy ftfy
 
 ## How to generate images
 
-Go to line 9 of the file `main.py` and then change the value of prompt to whatever you like.
+Go to line 9 of the file `main.py` and then change the value of prompt to whatever you like. Then simply run this:
+
+```bash
+python3 main.py
+``` 
+
+The final image will be saved as `image.png` in the current working directory. In order to change the name, you can modify line 15 of the `main.py` file. Or better, you can randomize it using libraries like `uuid`. 
 
 _IMPORTANT_: __DO NOT__ change line 10. 
 
