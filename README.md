@@ -10,3 +10,8 @@ The script provided in this particular repository is for users who have no GPU o
 pip3 install torch torchvision torchaudio
 ```
 
+2. Install `diffusers` and `transformers`:
+
+```
+pip3 install diffusers transformers scipy ftfy
+```
