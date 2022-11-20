@@ -21,4 +21,5 @@ pip3 install diffusers transformers scipy ftfy
 Go to line 9 of the file `main.py` and then change the value of prompt to whatever you like.
 
 _IMPORTANT_: __DO NOT__ change line 10. 
+
 _IMPORTANT_: 
