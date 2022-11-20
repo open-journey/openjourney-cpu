@@ -4,7 +4,7 @@ The script provided in this particular repository is for users who have no GPU o
 
 ## Dependencies 
 
-1. Install `pytorch`
+1. Install `pytorch`:
 
 ```
 pip3 install torch torchvision torchaudio
@@ -17,3 +17,8 @@ pip3 install diffusers transformers scipy ftfy
 ```
 
 ## How to generate images
+
+Go to line 9 of the file `main.py` and then change the value of prompt to whatever you like.
+
+_IMPORTANT_: __DO NOT__ change line 10. 
+_IMPORTANT_: 
