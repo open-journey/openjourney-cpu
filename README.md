@@ -15,3 +15,5 @@ pip3 install torch torchvision torchaudio
 ```
 pip3 install diffusers transformers scipy ftfy
 ```
+
+## How to generate images
