@@ -29,3 +29,8 @@ The final image will be saved as `image.png` in the current working directory. I
 _IMPORTANT_: __DO NOT__ change line 10. 
 
 _IMPORTANT_: This will change soon and there will be some `argparse` or `sys.argv` stuff in the code. This is a fast _proof of concept_ I wrote for a friend.
+
+## TODO List
+
+- [ ] Adding argument and flag support to the code. 
+- [ ] Working on the naming of the output files.
